@@ -1,2 +1,2 @@
-# meraki_sd_wan_python_modules
+# Meraki MX SD-WAN Python Modules
 Modularized implementation of MX (Meraki SD-WAN) specific configuration via REST APIs
