@@ -1,4 +1,4 @@
-merakiapikey = "e6d4d10273bf9d2f4a538420e6e58ac15cd52518"
+merakiapikey = "<api-key>"
 merakiurl = "api.meraki.com/api/v0"
 org_name = "Demo SD-WAN ORG"
 net_device_config = [
